@@ -1,4 +1,4 @@
 # node-chat
 
 Simple node chat with socket io. 
-NPM i to install dependencies
+NPM i on server folder to install dependencies
